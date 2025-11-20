@@ -1,3 +1,21 @@
+自动驾驶
+robotaxi
+智能驾驶
+驾驶
+汽车
+新能源车
+小马智行
+文远
+人工智能
+
+特斯拉
+马斯克
+
+ai
+
+京东
+刘强东
+
 DeepSeek
 梁文锋
 
@@ -6,23 +24,9 @@ DeepSeek
 稚晖君
 彭志辉
 
-京东
-刘强东
-
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-
-AMD
 
 谷歌
 google
@@ -33,6 +37,14 @@ chatgpt
 openai
 sora
 
+微软
+Microsoft
+
+英伟达
+NVIDIA
+
+AMD
+
 claude
 Anthropic
 
@@ -40,19 +52,6 @@ iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-robotaxi
-智能驾驶
-驾驶
-汽车
-新能源车
-小马智行
-文远
 
 机器人
 
